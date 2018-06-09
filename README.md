@@ -1,4 +1,4 @@
-# bufferoverflow
+# Buffer Overflow
 This is a simple buffer overflow I coded in C programming language. <br>
 In order to execute this one , save this file with .c extension since it's a file written in C. <br>
 
